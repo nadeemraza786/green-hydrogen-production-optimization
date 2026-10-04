@@ -1,0 +1,7 @@
+Metric,Value,Unit,Basis
+PV capacity,2587.18,kWp,Reported optimum
+Battery capacity,504.45,kWh,Reported optimum
+Electrolyzer minimum power,200.0,kW,Reported operating constraint
+Electrolyzer maximum power,1000.0,kW,Reported operating constraint
+Minimum LCOH2,7.47,EUR/kg,Reported optimum
+Annual H2 production,33533.53,kg/year,Reported result

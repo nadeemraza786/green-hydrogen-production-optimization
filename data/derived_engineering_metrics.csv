@@ -1,0 +1,9 @@
+Derived metric,Value,Unit
+PV to electrolyzer nameplate ratio,2.58718,kWp/kW
+Battery support at electrolyzer minimum power,2.52225,h
+Battery support at electrolyzer maximum power,0.50445,h
+Average hydrogen production,91.87268493150684,kg/day
+Average hydrogen production,2794.460833333333,kg/month
+Average hydrogen production,3.8280285388127853,kg/h
+Hydrogen yield per installed PV,12.961421315872881,kg/(kWp·year)
+Annual levelized hydrogen cost equivalent,250495.4691,EUR/year
