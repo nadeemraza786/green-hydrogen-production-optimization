@@ -1,6 +1,6 @@
 # Green Hydrogen Production Plant Optimization
 
-### Python based techno economic optimization and hourly performance analysis of a hybrid solar PV battery electrolyzer system
+### Python based techno-economic optimization and hourly performance analysis of a hybrid solar PV battery electrolyzer system
 
 <p align="center">
 <strong>Green Hydrogen • Solar PV • Battery Storage • Electrolyzer • LCOH₂ • Python • Optimization • Time Series Analysis • Energy Systems Engineering</strong>
@@ -24,7 +24,7 @@ The reported optimum is:
 | Annual hydrogen production | **33,533.53 kg/year** |
 | Minimum LCOH₂ | **7.47 EUR/kg** |
 
-The study combines **design space optimization**, **hourly simulation**, **battery state analysis**, **electrolyzer operating constraints**, **hydrogen production modelling** and **techno economic evaluation**.
+The study combines **design space optimization**, **hourly simulation**, **battery state analysis**, **electrolyzer operating constraints**, **hydrogen production modelling** and **techno-economic evaluation**.
 
 ---
 
@@ -410,7 +410,7 @@ python src/create_engineering_figures.py
 | Solar PV engineering | PV capacity optimization |
 | Battery storage | Hourly SOC and energy balancing |
 | Electrolyzer modelling | Minimum and maximum load constraints |
-| Techno economic analysis | LCOH₂ optimization |
+| Techno-economic analysis | LCOH₂ optimization |
 | System optimization | Two dimensional PV battery design search |
 | Time series simulation | Full year hourly plant operation |
 | Python | Calculations, post processing and visualization |
